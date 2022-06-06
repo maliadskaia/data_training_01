@@ -3,7 +3,7 @@ variable "common_tags" {
   type        = map(any)
   default = {
     Owner   = "Nastya"
-    Project = "AWS databricks & data governance"
+    Project = "AWS_databricks__data_governance"
   }
 }
 
