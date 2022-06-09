@@ -1,0 +1,26 @@
+# lambda 
+{
+           "FunctionName": "datatraining-separate-due-to-file-format",
+           "FunctionArn": "arn:aws:lambda:us-east-1:390148573654:function:datatraining-separate-due-to-file-format",
+           "Runtime": "python3.9",
+           "Role": "arn:aws:iam::390148573654:role/ForLambda-S3FullAccess",
+           "Handler": "lambda_function.lambda_handler",
+           "CodeSize": 626,
+           "Description": "",
+           "Timeout": 600,
+           "MemorySize": 128,
+           "LastModified": "2022-06-07T09:59:21.971+0000",
+           "CodeSha256": "gMq4QKr14ZE0zqk45ELF0exqkvWyNEt5OiCA4fvim40=",
+           "Version": "$LATEST",
+           "TracingConfig": {
+               "Mode": "PassThrough"
+           },
+           "RevisionId": "eb3179a0-7e72-4354-aa0c-e23bdff73e3a",
+           "PackageType": "Zip",
+           "Architectures": [
+               "x86_64"
+           ],
+           "EphemeralStorage": {
+               "Size": 512
+           }
+       }
