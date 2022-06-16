@@ -9,5 +9,5 @@ variable "common_tags" {
 
 variable "region" {
   description = "AWS Region"
-  default     = "us-east-1"
+  default     = "us-west-1"
 }
